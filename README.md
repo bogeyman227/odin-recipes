@@ -1,1 +1,1 @@
-wow
+The website consists of a main index page which will has links to a few recipes. I made sure to add images to the home page of the website to try to make it as visually appealing as possible.
